@@ -1,9 +1,2 @@
 # stepik_auto_tests_course
-домашние задания к курсу
-
-https://stepik.org/lesson/187065/step/7?unit=161976
-sdfsef
-sefsef
-sefsef
-sefsefse
-fsefsef
+Репозиторий для хранения домашних работ по курсу АТ https://stepik.org/course/575/
